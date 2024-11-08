@@ -27,7 +27,7 @@ class heroi{
 }
 
 //instanciando 2 herois
-let heroi1 = new heroi('Breno', 27, 'Mago');//eu mesmo, tem q ser mágico pra conseguir trabalhar, namorar, estudar, jogar e treinar(assumo q o ultimo não tenho feito muito)
+let heroi1 = new heroi('Breno', 27, 'Mago');//eu mesmo
 let heroi2 = new heroi('Arthur Morgan', 30, 'Pistoleiro');//eu amo Red Dead 😊
 
 heroi1.atacar();
